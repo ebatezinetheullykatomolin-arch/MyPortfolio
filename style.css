@@ -57,3 +57,19 @@ p {
         text-align: center;
     }
 }
+
+.education {
+    background-color: #e8f5e9;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.education h2 {
+    color: #2e7d32;
+}
+
+.education p {
+    color: #333;
+    line-height: 1.6;
+}
